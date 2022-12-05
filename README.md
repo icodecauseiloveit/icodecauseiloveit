@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @icodecauseiloveit
-- 👀 I’m interested in web apps for helping individuals and organizations
+- 👋 Hi, I’m @icodecauseiloveit 
+- 👀 I’m interested in web apps for helping individuals and organizations using Javascript
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🔎 I'm looking for a mentor who helps me start in the web development world
+- 💞️ I’m wish to collaborate on Open Source Projects and find a Job
 - 📫 You can reach me here icodecauseiloveit@gmail.com
 
 <!---
